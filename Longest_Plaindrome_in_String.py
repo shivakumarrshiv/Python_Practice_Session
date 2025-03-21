@@ -12,3 +12,4 @@ class Solution:
 user = input("Enter the Data : ")
 data = Solution()
 print(data.LongestPalindrome(user))
+
